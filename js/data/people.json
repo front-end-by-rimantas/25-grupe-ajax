@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Vardenis",
+        "age": 99,
+        "car": "Tesla"
+    },
+    {
+        "name": "Petras",
+        "age": 88,
+        "car": "Volvo"
+    },
+    {
+        "name": "Maryte",
+        "age": 77,
+        "car": "BMW"
+    },
+    {
+        "name": "Alphas",
+        "age": 60,
+        "car": "UFO ship"
+    }
+]
