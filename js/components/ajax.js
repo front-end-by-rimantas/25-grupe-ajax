@@ -8,7 +8,7 @@ function ajax(fileName, callback) {
 
         }
     };
-    xhttp.open("GET", `http://127.0.0.1:3000/js/data/${fileName}`, true);
+    xhttp.open("GET", `https://front-end-by-rimantas.github.io/25-grupe-ajax/js/data/${fileName}`, true);
     xhttp.send();
 }
 
